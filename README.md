@@ -1,5 +1,7 @@
 ## netscanner v1.0.0-beta
-![image](https://github.com/josrojrom1/netscanner/assets/32680720/e17aa064-670e-47c7-ad2e-460f5876b59b)
+
+<img width="619" height="232" alt="image" src="https://github.com/user-attachments/assets/cc851d58-14de-429c-aab7-eadb0dac7e1c" />
+
 
 **netscanner** is a tool designed in Python which works for Linux, Windows and macOS, that scans your private network to detect hosts. It uses the module **scapy** and returns **IP** and **MAC** of connected hosts in our private network via **ARP** packets.
 
@@ -37,4 +39,4 @@ Remember to use the `deactivate` command when you finish using the netscanner to
 
 ---
 
-*by José Joaquín Rojas Romero aka tric0 - josrojrom1@alum.us.es*
+*by 1337KR3W - pepecodesdev@gmail.com*
