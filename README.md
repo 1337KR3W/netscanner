@@ -37,4 +37,4 @@ Remember to use the `deactivate` command when you finish using the netscanner to
 
 ---
 
-*by José Joaquín Rojas Romero aka tric0 - josrojrom1@alum.us.es*
+*by 1337KR3W - pepecodesdev@gmail.com*
